@@ -1,12 +1,19 @@
 ---
-title: "Paper Title Number 1"
+title: "Methodology"
+dates: ""
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/methodology
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+- Heiling, H., Rashid, N. *Li, Q.*, Peng, X., Yeh, J., and Ibrahim, J. (2024+). Efficient Computation of High-Dimensional
+  Penalized Generalized Linear Mixed Models by Latent Factor Modeling of the Random Effects. _/Biometrics/_, in press.
+- Wang, P., Wang, H., *Li, Q.*, Shen, D., and Liu, Y. (2024+). Joint and Individual Component Regression. _/Journal of
+  Computational and Graphical Statistics/_, in press. 
+- Heiling, H., Rashid, N., *Li, Q.*, and Ibrahim, J. (2024+). glmmPen: High Dimensional Penalized Generalized Linear Mixed
+  Models. _/The R Journal/_, in press. 
+- Chen, J., *Li, Q.*, and Chen, H.Y. (2023). Testing Generalized Linear Models with High-dimensional Null
+  Hypothesis. _/Biometrika/_, 110:83-99. 
