@@ -9,8 +9,8 @@ redirect_from:
 
 > "It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment." - Carl F. Gauss
 
-I am an Associate Professor in the Department of Biostatistics at the University of North Carolina at Chapel Hill. My
-primary research focuses on high-dimensional statistics and its applications in biomedical research. 
+I am an Associate Professor ([CV](../files/cv.pdf)) in the Department of Biostatistics at the University of North Carolina
+at Chapel Hill. My primary research focuses on high-dimensional statistics and its applications in biomedical research.
 
 ## Research Interests
 - High dimensional statistics
