@@ -24,6 +24,9 @@ main:
   - title: "Collaboration"
     url: /collaboration/
 
+  ##- title: "Funding"
+  ##  url: /funding/
+
   - title: "Team"
     url: /team/
 

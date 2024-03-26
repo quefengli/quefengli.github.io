@@ -7,11 +7,16 @@ redirect_from:
   - /about.html
 ---
 
+> "It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment." - Carl F. Gauss
 
 I am an Associate Professor in the Department of Biostatistics at the University of North Carolina at Chapel Hill. My
-primary research focuses on high-dimensional statistics and its applications in biomedical research. My specific areas of
-interest include integrative analysis of multimodal data, neuroimaging data analysis, and robust statistics. I serve as a
-Principal Investigator or Co-Investigator on several NIH grants that support my research.
+primary research focuses on high-dimensional statistics and its applications in biomedical research. 
+
+## Research Interests
+- High dimensional statistics
+- Integrative analysis of multimodal data
+- Neuroimaging data analysis
+- Robust statistics
 
 ## Work Experience
 - Associate Professor, [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/), UNC-Chapel Hill,
@@ -21,8 +26,12 @@ Principal Investigator or Co-Investigator on several NIH grants that support my 
 - Postdoctoral Research Associate, [ORFE](https://orfe.princeton.edu), Princeton University, _2013-2015_.
 
 ## Education
-- Ph.D., [Department of Statistics](https://www.stat.wisc.edu), University of Wisconsin - Madison, _2008-2013_.
+- Ph.D. in statistics, [Department of Statistics](https://www.stat.wisc.edu), University of Wisconsin - Madison, _2008-2013_.
+- B.S. in mathematics, Department of Mathematics, Nanjing University, China. _2002-2006_.
 
 ## Selected Professional Services
-- Ad-hoc reviewer of NIH ASPA study session, 2024.
+- Reviewer of NIH ASPA study session, 2024.
 - Associate Editor, Journal of Nonparametric Statistics, 2017-now.
+
+## Funding
+- [NIH R01AG073259](https://reporter.nih.gov/search/jyn82Da1z0OjuTAGPZz9fQ/project-details/10276798)
