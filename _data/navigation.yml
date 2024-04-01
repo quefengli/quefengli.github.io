@@ -28,7 +28,7 @@ main:
   ##  url: /funding/
 
   - title: "People"
-    url: /team/
+    url: /people/
 
   - title: "Software"
     url: /software/
