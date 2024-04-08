@@ -29,7 +29,8 @@ _Disclaimer: The pdf files posted here are merely for convenience. You should no
     class="underline">*Biometrics*</span>, 80: ujae016. [[pdf](../files/publication/Biometrics2024.pdf)]
     [[supp](../files/publication/Biometrics2024_supp.pdf)] [[code](../files/publication/Biometrics2024_code.zip)]
 -   Wang, H., **Li, Q.**, and Liu, Y. (2024). Multi-response Regression for Block-missing Multi-modal Data without
-    Imputation,  <span class="underline">*Statistica Sinica*</span>, 34: 527-546. 
+    Imputation,  <span class="underline">*Statistica Sinica*</span>, 34:
+    527-546. [[pdf](../files/publication/Sinica2024b.pdf)] [[supp](../files/publication/Sinica2024b_supp.pdf)]
 -   Chen, J., **Li, Q.**, and Chen, H.Y. (2023). Testing Generalized Linear Models with High-dimensional Null
     Hypothesis. <span class="underline">*Biometrika*</span>, 110:83-99. [[pdf](../files/publication/Biometrika2022.pdf)] [[supp](../files/publication/Biometrika2022_supp.pdf)]
 -   Liu, Y., Darville, T., Zheng, X., and **Li, Q.** (2023). Decomposition of Variation of Mixed Variables by a Latent
