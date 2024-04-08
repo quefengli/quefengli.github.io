@@ -19,18 +19,22 @@ _Disclaimer: The pdf files posted here are merely for convenience. You should no
     Penalized Piecewise Constant Hazard Random Effects Survival Models.
 
 # Statistical Theory & Methodology    
--   Heiling, H., Rashid, N. **Li, Q.**, Peng, X., Yeh, J., and Ibrahim, J. (2024+). Efficient Computation of High-Dimensional
-    Penalized Generalized Linear Mixed Models by Latent Factor Modeling of the Random Effects. <span class="underline">*Biometrics*</span>, in press.
--   Wang, P., Wang, H., **Li, Q.**, Shen, D., and Liu, Y. (2024+). Joint and Individual Component Regression. <span class="underline">*Journal of
-    Computational and Graphical Statistics*</span>, in press. [[pdf](../files/publication/JCGS2024.pdf)] [[supp](../files/publication/JCGS2024_supp.pdf)]
+-   Wang, P., Wang, H., **Li, Q.**, Shen, D., and Liu, Y. (2024+). Joint and Individual Component Regression. <span
+    class="underline">*Journal of Computational and Graphical Statistics*</span>, in
+    press. [[pdf](../files/publication/JCGS2024.pdf)] [[supp](../files/publication/JCGS2024_supp.pdf)]
 -   Heiling, H., Rashid, N., **Li, Q.**, and Ibrahim, J. (2024+). glmmPen: High Dimensional Penalized Generalized Linear Mixed
     Models. <span class="underline">*The R Journal*</span>, in press. [[pdf](../files/publication/RJournal2023.pdf)]
+-   Heiling, H., Rashid, N. **Li, Q.**, Peng, X., Yeh, J., and Ibrahim, J. (2024). Efficient Computation of High-Dimensional
+    Penalized Generalized Linear Mixed Models by Latent Factor Modeling of the Random Effects. <span
+    class="underline">*Biometrics*</span>, 80: ujae016. [[pdf](../files/publication/Biometrics2024.pdf)]
+    [[supp](../files/publication/Biometrics2024_supp.pdf)] [[code](../files/publication/Biometrics2024_code.zip)]
+-   Wang, H., **Li, Q.**, and Liu, Y. (2024). Multi-response Regression for Block-missing Multi-modal Data without
+    Imputation,  <span class="underline">*Statistica Sinica*</span>, 34: 527-546. 
 -   Chen, J., **Li, Q.**, and Chen, H.Y. (2023). Testing Generalized Linear Models with High-dimensional Null
     Hypothesis. <span class="underline">*Biometrika*</span>, 110:83-99. [[pdf](../files/publication/Biometrika2022.pdf)] [[supp](../files/publication/Biometrika2022_supp.pdf)]
 -   Liu, Y., Darville, T., Zheng, X., and **Li, Q.** (2023). Decomposition of Variation of Mixed Variables by a Latent
     Mixed Gaussian Copula Model. <span class="underline">*Biometrics*</span>, 2:1187-1200. [[pdf](../files/publication/Biometrics2022.pdf)] [[supp](../files/publication/Biometrics2022_supp.pdf)]
--   Wang, H., **Li, Q.**, and Liu, Y. (2024+). Multi-response Regression for Block-missing Multi-modal Data without
-    Imputation. <span class="underline">*Statistica Sinica*</span>, in press. [[pdf](../files/publication/Sinica2024.pdf)] [[supp](../files/publication/Sinica2024_supp.pdf)]
+[[pdf](../files/publication/Sinica2024.pdf)] [[supp](../files/publication/Sinica2024_supp.pdf)]
 -   Yang, H., Lin, D.Y., and **Li, Q.** (2023). An Efficient Greedy Search Algorithm for High-dimensional Linear Discriminant
     Analysis. <span class="underline">*Statistica Sinica*</span>, 33:1-22. [[pdf](../files/publication/Sinica2022.pdf)] [[supp](../files/publication/Sinica2022_supp.pdf)]
 -   Wang, P., **Li, Q.**, Shen, D., and Liu, Y. (2023). High-Dimensional Factor Regression for Heterogeneous
