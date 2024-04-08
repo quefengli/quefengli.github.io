@@ -35,7 +35,6 @@ _Disclaimer: The pdf files posted here are merely for convenience. You should no
     Hypothesis. <span class="underline">*Biometrika*</span>, 110:83-99. [[pdf](../files/publication/Biometrika2022.pdf)] [[supp](../files/publication/Biometrika2022_supp.pdf)]
 -   Liu, Y., Darville, T., Zheng, X., and **Li, Q.** (2023). Decomposition of Variation of Mixed Variables by a Latent
     Mixed Gaussian Copula Model. <span class="underline">*Biometrics*</span>, 2:1187-1200. [[pdf](../files/publication/Biometrics2022.pdf)] [[supp](../files/publication/Biometrics2022_supp.pdf)]
-[[pdf](../files/publication/Sinica2024.pdf)] [[supp](../files/publication/Sinica2024_supp.pdf)]
 -   Yang, H., Lin, D.Y., and **Li, Q.** (2023). An Efficient Greedy Search Algorithm for High-dimensional Linear Discriminant
     Analysis. <span class="underline">*Statistica Sinica*</span>, 33:1-22. [[pdf](../files/publication/Sinica2022.pdf)] [[supp](../files/publication/Sinica2022_supp.pdf)]
 -   Wang, P., **Li, Q.**, Shen, D., and Liu, Y. (2023). High-Dimensional Factor Regression for Heterogeneous
@@ -75,9 +74,10 @@ _Disclaimer: The pdf files posted here are merely for convenience. You should no
 -   **Li, Q.** and Shao, J. (2015). Regularizing LASSO: A Consistent Variable Selection Method. <span class="underline">*Statistica Sinica*</span>,
     25:975-992. [[pdf](../files/publication/Sinica2015_1.pdf)] [[supp](../files/publication/Sinica2015_1_supp.pdf)]
 -   **Li, Q.** and Shao, J. (2015). Sparse Quadratic Discriminant Analysis for High Dimensional Data. <span class="underline">*Statistica Sinica*</span>, 25:457-473. [[pdf](../files/publication/Sinica2015_2.pdf)] [[supp](../files/publication/Sinica2015_2_supp.pdf)]
--   Xu, Y., Yu, M., Zhao, Y. Q., **Li, Q.**, Wang, S., and Shao, J. (2015). Regularized Outcome Weighted Subgroup Identification
-    for Differential Treatment Effects. <span class="underline">*Biometrics*</span>, 71:645-653. [[pdf](../files/publication/Biometrics2015.pdf)] [[supp](../files/publication/Biometrics2015_supp.pdf)] [[R code](../files/publication/ROWSI.zip)] {An earlier version received 2014
-    ***John Van Ryzin Award***.}
+-   Xu, Y., Yu, M., Zhao, Y. Q., **Li, Q.**, Wang, S., and Shao, J. (2015). Regularized Outcome Weighted Subgroup
+    Identification for Differential Treatment Effects. <span class="underline">*Biometrics*</span>,
+    71:645-653. [[pdf](../files/publication/Biometrics2015.pdf)] [[supp](../files/publication/Biometrics2015_supp.pdf)]
+    [[code](../files/publication/ROWSI.zip)] {An earlier version received 2014 ***John Van Ryzin Award***.}
 -   **Li, Q.**, Wang, S., Huang, C., Yu, M., and Shao, J. (2014). Meta-Analysis Based
     Variable Selection for Gene Expression Data. <span class="underline">*Biometrics*</span>, 70:872-880. [[pdf](../files/publication/Biometrics2014.pdf)] [[supp](../files/publication/Biometrics2014_supp.pdf)]
 -   Yu, M. and **Li, Q.** (2014). Discussion of "Combining Biomarkers to Optimize Patient Treatment
