@@ -118,7 +118,7 @@ _Below is a list of my collaborative research publications in peer-reviewed biom
     11:221-230. [[Link](https://www.sciencedirect.com/science/article/pii/S2211335518301153?via%253Dihub)]
 -   Sun, X., Shan, Y., **Li, Q.**, Chollet-Hinton, L., Kirk, E., Gierach, G., Troester, M.
     (2018). Intra-individual Gene Expression Variability of Normal Breast Tissue. <span class="underline">*Scientific Reports*</span>, 8:9137. [[Link](https://www.ncbi.nlm.nih.gov/pubmed/29904148)]
--   Wu, J., Cummings, D., **Li, Q.**, Halladay, J., Donahue, K., Cene, C., M.D., Hinderliter, A., Bosworth, H., Miller, C.,
+-   Wu, J., Cummings, D., **Li, Q.**, Halladay, J., Donahue, K., Cene, C., Hinderliter, A., Bosworth, H., Miller, C.,
     Garcia, B., Tillman, J., DeWalt, D. (2018). The Effect of a Practice-based Multi-component Intervention that Includes
     Health Coaching on Medication Adherence and Blood Pressure Control in Rural Primary Care. <span class="underline">*Journal of Clinical Hypertension*</span>, 20:757-764. [[Link](https://www.ncbi.nlm.nih.gov/pubmed/29577574)]
 -   Jones, S., **Li, Q.**, Aiello, A., O'Rand, A., Turkbey E., Roux, A., and Evenson, K. (2018). Physical Activity,

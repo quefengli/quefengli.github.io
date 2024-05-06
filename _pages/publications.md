@@ -22,8 +22,8 @@ _Disclaimer: The pdf files posted here are merely for convenience. You should no
 -   Wang, P., Wang, H., **Li, Q.**, Shen, D., and Liu, Y. (2024+). Joint and Individual Component Regression. <span
     class="underline">*Journal of Computational and Graphical Statistics*</span>, in
     press. [[pdf](../files/publication/JCGS2024.pdf)] [[supp](../files/publication/JCGS2024_supp.pdf)]
--   Heiling, H., Rashid, N., **Li, Q.**, and Ibrahim, J. (2024+). glmmPen: High Dimensional Penalized Generalized Linear Mixed
-    Models. <span class="underline">*The R Journal*</span>, in press. [[pdf](../files/publication/RJournal2023.pdf)]
+-   Heiling, H., Rashid, N., **Li, Q.**, and Ibrahim, J. (2024). glmmPen: High Dimensional Penalized Generalized Linear Mixed
+    Models. <span class="underline">*The R Journal*</span>, 15:106-128. [[pdf](../files/publication/RJournal2023.pdf)]
 -   Heiling, H., Rashid, N. **Li, Q.**, Peng, X., Yeh, J., and Ibrahim, J. (2024). Efficient Computation of High-Dimensional
     Penalized Generalized Linear Mixed Models by Latent Factor Modeling of the Random Effects. <span
     class="underline">*Biometrics*</span>, 80: ujae016. [[pdf](../files/publication/Biometrics2024.pdf)]
