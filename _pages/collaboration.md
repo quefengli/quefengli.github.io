@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 _Below is a list of my collaborative research publications in peer-reviewed biomedical journals:_
+-   Carroll, Z., Ridgway, E., Owen, P., Bonetti, A., Ikonomidis, J., Rosenkrans, D., Caranasos, T., McLean, D., **Li, Q.**,
+    Zhuo, S., and Hollis, I. (2024+). Prophylaxis for Postoperative Atrial Fibrillation: Impact of the
+    Implementation of a Medication Bundle Protocol. _The Journal of Thoracic and Cardiovascular Surgery_, in press.
 -   Rosman, L., Lampert, R., Zhuo, S., **Li, Q.**, Varma, N., Burg, M., Gaffey, A., Armbruster, T., and
     Gehi, A. (2024+). Wearable Devices, Healthcare Use, and Psychological Wellbeing in Patients with Atrial
     Fibrillation. _Journal of American Heart Association_, in press. 
