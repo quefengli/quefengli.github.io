@@ -31,6 +31,7 @@ at Chapel Hill. My primary research focuses on high-dimensional statistics and i
 
 ## Selected Professional Services
 - Reviewer of NIH ASPA study session, 2024.
+- Reviewer of NIH ANIE study session, 2024.
 - Associate Editor, Journal of Nonparametric Statistics, 2017-now.
 
 ## Funding
