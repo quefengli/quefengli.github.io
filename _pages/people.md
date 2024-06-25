@@ -6,18 +6,19 @@ author_profile: true
 ---
 
 # Current Students and Postdocs
-
 -   Zhe Zhang (Postdoc)
 -   Wanting Jin (PhD student)
 -   Zhentao Yu (PhD student)
 -   Songcheng Zhuo (PhD student)
 -   Renee Ge (PhD student)
 -   Longfei Zhang (PhD student)
--   Tianyi Liu (PhD student, joint with Fei Zou)
+
 
 
 # Alumni
-
+-   Tianyi Liu, PhD in 2024  (joint with Fei Zou).
+    -   Thesis: Algorithms For Cell-type Deconvolution under Constraints and Latent Structural Unwanted Variation
+	-   First job: Data scientist in Incyte
 -   Hannan Yang, PhD in 2022 (joint with Danyu Lin).
     -   Thesis: Statistical Learning Methods for High-dimensional Classification and Regression
     -   First job: Data scientist in Novartis
