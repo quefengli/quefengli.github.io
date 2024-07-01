@@ -10,8 +10,9 @@ author_profile: true
 -   Wanting Jin (PhD student)
 -   Zhentao Yu (PhD student)
 -   Songcheng Zhuo (PhD student)
--   Renee Ge (PhD student)
 -   Longfei Zhang (PhD student)
+-   Renee Ge (PhD student, joint with Yuchao Jiang)
+
 
 
 
