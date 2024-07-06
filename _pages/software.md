@@ -13,9 +13,9 @@ author_profile: true
 -   [glmmPen:](https://cran.r-project.org/web/packages/glmmPen/index.html) High Dimensional Penalized Generalized Linear
     Mixed Models. [[manual](https://cran.r-project.org/web/packages/glmmPen/glmmPen.pdf)]
     [[reference](../files/publication/RJournal2023.pdf)]
-    [![](https://cranlogs.r-pkg.org/badges/glmmPen)](https://cran.r-project.org/package=glmmPen) 
+    [![](https://cranlogs.r-pkg.org/badges/grand-total/glmmPen)](https://cran.r-project.org/package=glmmPen) 
 -   [JICO:](https://cran.r-project.org/web/packages/JICO/index.html) Joint and Individual Component
     Regression. [[manual](https://cran.r-project.org/web/packages/JICO/JICO.pdf)]
     [[reference](https://arxiv.org/pdf/2209.12388.pdf)]
-    [![](https://cranlogs.r-pkg.org/badges/JICO)](https://cran.r-project.org/package=JICO) 
+    [![](https://cranlogs.r-pkg.org/badges/grand-total/JICO)](https://cran.r-project.org/package=JICO) 
 
