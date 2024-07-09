@@ -14,8 +14,7 @@ author_profile: true
     [[reference](https://arxiv.org/pdf/2209.12388.pdf)]
     [![](https://cranlogs.r-pkg.org/badges/grand-total/JICO)](https://cran.r-project.org/package=JICO) 
 -   [ARTDeConv:](https://github.com/gr8lawrence/ARTDeConv) Adaptive Regularized Tri-factor Non-negative Matrix Factorization
-    for Deconvolution. [![Github All
-    Releases](https://img.shields.io/github/downloads/gr8lawrence/ARTDeConv/total.svg)](https://github.com/gr8lawrence/ARTDeConv)
+    for Deconvolution. 
 -   [iLDA:](../files/software/iLDA_0.1.0.tar.gz) An integrative linear discriminant analysis classifier using multimodal
     data for binary classification, which allows multimodal data to have blocks of missing
     values. [[manual](../files/software/iLDA.pdf)] [[reference](../files/publication/Biometrika2018_2.pdf)]
