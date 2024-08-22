@@ -8,8 +8,6 @@ _Disclaimer: The pdf files posted here are merely for convenience. You should no
 copyright to access to these papers._
 
 # Preprints
-- Jin, W., Wu, G., and **Li, Q.** (2024+). Inference on the Significance of Modalities in Multimodal Generalized Linear
-Models.
 - Jiang, J., **Li, Q.**, Lin, J., and Lin, F. (2024+). Classification of Competing Risks under a Semiparametric Density
 Ratio Model with Transition of Markers.  
 - Liu, T., **Li, Q.**, Zheng, X., and Zou, F. (2024+). Adaptive Regularized Tri-factor Non-negative Matrix Factorization for
