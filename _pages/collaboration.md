@@ -13,16 +13,19 @@ _Below is a list of my collaborative research publications in peer-reviewed biom
 -   Rosman, L., Lampert, R., Zhuo, S., **Li, Q.**, Varma, N., Burg, M., Gaffey, A., Armbruster, T., and Gehi,
     A. (2024). Wearable Devices, Healthcare Use, and Psychological Wellbeing in Patients with Atrial Fibrillation. _Journal
     of American Heart Association_, 13:e033750. [[Link](https://www.ahajournals.org/doi/10.1161/JAHA.123.033750)]
--   Merlo, A., Bensimhon, H., Watkins, R., Yu, Z., **Li, Q.**, Chang, P., and Byku, M. (2024+). Use of mechanical circulatory
-    support and survival for heart and heart-kidney transplant recipients in the new allocation system. <span class="underline">*The Journal of Heart
-    and Lung Transplantation*</span>, in press. [[Link](https://www.jhltopen.org/article/S2950-1334(24)00020-X/fulltext)]
--   Chang, E., Tugman, M., Assimon, M., Gilet, C., Ge, R, **Li, Q.**, and Flythe, J. (2024). Lung
-    Ultrasound, Bioimpedance Spectroscopy, and Physical Examination for Volume Assessment in Hospitalized Hemodialysis
-    Patients: a Diagnostic Test Study. <span class="underline">*Kidney Medicine*</span>, 6:100764. [[Link](https://www.kidneymedicinejournal.org/article/S2590-0595(23)00182-6/fulltext)]
+-   Merlo, A., Bensimhon, H., Watkins, R., Yu, Z., **Li, Q.**, Chang, P., and Byku, M. (2024). Use of mechanical
+    circulatory support and survival for heart and heart-kidney transplant recipients in the new allocation system. <span
+    class="underline">*The Journal of Heart and Lung
+    Transplantation*</span>. [[Link](https://www.jhltopen.org/article/S2950-1334(24)00020-X/fulltext)]
+-   Chang, E., Tugman, M., Assimon, M., Gilet, C., Ge, R, **Li, Q.**, and Flythe, J. (2024). Lung Ultrasound, Bioimpedance
+    Spectroscopy, and Physical Examination for Volume Assessment in Hospitalized Hemodialysis Patients: a Diagnostic Test
+    Study. <span class="underline">*Kidney Medicine*</span>,
+    6:100764. [[Link](https://www.kidneymedicinejournal.org/article/S2590-0595(23)00182-6/fulltext)]
 -   Kim, K., Bird, J., Keet, C., Virkud, Y. Herlihy, L., Ye, P., Smeekens, J., Guo, R., Yue, X., Penumarti, A., Qaqish, B.,
-    **Li, Q.**, Kulis, M., and Burks, A. (2024). Desensitization and Remission after Peanut Sublingual Immunotherapy in 1- to
-    4-year-old Peanut-Allergic Children: a Randomized, Placebo-Controlled Trial. <span class="underline">*The Journal of Allergy and Clinical
-    Immunology*</span>, 153:173-181. [[Link](https://www.jacionline.org/article/S0091-6749(23)01116-8/fulltext)]
+    **Li, Q.**, Kulis, M., and Burks, A. (2024). Desensitization and Remission after Peanut Sublingual Immunotherapy in 1-
+    to 4-year-old Peanut-Allergic Children: a Randomized, Placebo-Controlled Trial. <span class="underline">*The Journal of
+    Allergy and Clinical Immunology*</span>,
+    153:173-181. [[Link](https://www.jacionline.org/article/S0091-6749(23)01116-8/fulltext)]
 -   Yu, Z., Shi, Z., Dan, T., Dere, M., Kim, M., **Li, Q.**, Wu, G., and ADNI (2023). Uncovering Diverse Mechanistic Spreading
     Pathways in Disease Progression of Alzheimer’s Disease. <span class="underline">*Journal of Alzheimers Disease Reports*</span>, 7:855-872. [[Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10473126/)]
 -   Daw, J., Armbruster, T., Deyo, Z., Walker, J., Rosman, L, Sears, S, Mazzella, A., Jin, W., **Li, Q.**, and Gehi,
