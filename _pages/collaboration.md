@@ -7,11 +7,12 @@ author_profile: true
 
 _Below is a list of my collaborative research publications in peer-reviewed biomedical journals:_
 -   Carroll, Z., Ridgway, E., Owen, P., Bonetti, A., Ikonomidis, J., Rosenkrans, D., Caranasos, T., McLean, D., **Li, Q.**,
-    Zhuo, S., and Hollis, I. (2024+). Prophylaxis for Postoperative Atrial Fibrillation: Impact of the
-    Implementation of a Medication Bundle Protocol. _The Journal of Thoracic and Cardiovascular Surgery_, in press.
--   Rosman, L., Lampert, R., Zhuo, S., **Li, Q.**, Varma, N., Burg, M., Gaffey, A., Armbruster, T., and
-    Gehi, A. (2024+). Wearable Devices, Healthcare Use, and Psychological Wellbeing in Patients with Atrial
-    Fibrillation. _Journal of American Heart Association_, in press. 
+    Zhuo, S., and Hollis, I. (2024). Prophylaxis for Postoperative Atrial Fibrillation: Impact of the
+    Implementation of a Medication Bundle Protocol. _The Journal of Thoracic and Cardiovascular Surgery_, 20:
+    37-39. [[Link](https://www.jtcvsopen.org/action/showPdf?pii=S2666-2736%2824%2900159-1)]
+-   Rosman, L., Lampert, R., Zhuo, S., **Li, Q.**, Varma, N., Burg, M., Gaffey, A., Armbruster, T., and Gehi,
+    A. (2024). Wearable Devices, Healthcare Use, and Psychological Wellbeing in Patients with Atrial Fibrillation. _Journal
+    of American Heart Association_, 13:e033750. [[Link](https://www.ahajournals.org/doi/10.1161/JAHA.123.033750)]
 -   Merlo, A., Bensimhon, H., Watkins, R., Yu, Z., **Li, Q.**, Chang, P., and Byku, M. (2024+). Use of mechanical circulatory
     support and survival for heart and heart-kidney transplant recipients in the new allocation system. <span class="underline">*The Journal of Heart
     and Lung Transplantation*</span>, in press. [[Link](https://www.jhltopen.org/article/S2950-1334(24)00020-X/fulltext)]
