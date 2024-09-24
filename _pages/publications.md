@@ -20,9 +20,9 @@ Malaria Randomized Clinical Trial.
 Penalized Piecewise Constant Hazard Random Effects Survival Models.
 
 # Statistical Theory & Methodology    
--   Wang, P., Wang, H., **Li, Q.**, Shen, D., and Liu, Y. (2024+). Joint and Individual Component Regression. <span
-class="underline">*Journal of Computational and Graphical Statistics*</span>, in
-press. [[pdf](../files/publication/JCGS2024.pdf)] [[supp](../files/publication/JCGS2024_supp.pdf)]
+-   Wang, P., Wang, H., **Li, Q.**, Shen, D., and Liu, Y. (2024). Joint and Individual Component Regression. <span
+class="underline">*Journal of Computational and Graphical Statistics*</span>, 
+33:763-773. [[pdf](../files/publication/JCGS2024.pdf)] [[supp](../files/publication/JCGS2024_supp.pdf)]
 -   Heiling, H., Rashid, N., **Li, Q.**, and Ibrahim, J. (2024). glmmPen: High Dimensional Penalized Generalized Linear Mixed
 Models. <span class="underline">*The R Journal*</span>, 15:106-128. [[pdf](../files/publication/RJournal2023.pdf)]
 -   Heiling, H., Rashid, N. **Li, Q.**, Peng, X., Yeh, J., and Ibrahim, J. (2024). Efficient Computation of High-Dimensional
