@@ -33,6 +33,7 @@ at Chapel Hill. My primary research focuses on high-dimensional statistics and i
 - Reviewer of NIH ASPA study session, 2024.
 - Reviewer of NIH ANIE study session, 2024.
 - Reviewer of NIH BIND study session, 2024.
+- Associate Editor, Biostatistics, 2024-now.
 - Associate Editor, Journal of Nonparametric Statistics, 2017-now.
 
 ## Funding
