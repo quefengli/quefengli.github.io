@@ -37,4 +37,4 @@ at Chapel Hill. My primary research focuses on high-dimensional statistics and i
 - Associate Editor of Journal of Nonparametric Statistics, 2017-now.
 
 ## Funding
-- [NIH R01AG073259](https://reporter.nih.gov/search/jyn82Da1z0OjuTAGPZz9fQ/project-details/10276798)
+- NIH R01AG073259

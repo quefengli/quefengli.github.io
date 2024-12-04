@@ -16,10 +16,10 @@ Ratio Model with Transition of Markers.
 Cell Type Deconvolution.
 - Yang, Y., Lin, J., **Li, Q.**, and Lin, F. (2024+). Maximum Likelihood Estimation for the Silent Hypnozoite Carriage in a
 Malaria Randomized Clinical Trial. 
-- Heiling, H., Rashid, N., **Li, Q.**, Peng, X., Yeh, J., and Ibrahim, J. (2024+). Efficient Computation of High-dimensional
-Penalized Piecewise Constant Hazard Random Effects Survival Models.
 
 # Statistical Theory & Methodology    
+- Heiling, H., Rashid, N., **Li, Q.**, Peng, X., Yeh, J., and Ibrahim, J. (2024+). Efficient Computation of High-dimensional
+Penalized Piecewise Constant Hazard Random Effects Survival Models. _Statistics in Medicine_, in press. 
 -   Wang, P., Wang, H., **Li, Q.**, Shen, D., and Liu, Y. (2024). Joint and Individual Component Regression. <span
 class="underline">*Journal of Computational and Graphical Statistics*</span>, 
 33:763-773. [[pdf](../files/publication/JCGS2024.pdf)] [[supp](../files/publication/JCGS2024_supp.pdf)]
