@@ -8,17 +8,17 @@ _Disclaimer: The pdf files posted here are merely for convenience. You should no
 copyright to access to these papers._
 
 # Preprints
-- Jin, W., Wu, G., and **Li, Q.** (2024+). Inference on the Significance of Modalities in Multimodal Generalized Linear
-    Models.
-- Jiang, J., **Li, Q.**, Lin, J., and Lin, F. (2024+). Classification of Competing Risks under a Semiparametric Density
+- Jin, W., Wu, G., and **Li, Q.** (2025+). Inference on the Significance of Modalities in Multimodal Generalized Linear
+    Models. [An earlier version won **2025 ENAR Distinguished Student Paper Award**]
+- Jiang, J., **Li, Q.**, Lin, J., and Lin, F. (2025+). Classification of Competing Risks under a Semiparametric Density
 Ratio Model with Transition of Markers.  
-- Liu, T., **Li, Q.**, Zheng, X., and Zou, F. (2024+). Adaptive Regularized Tri-factor Non-negative Matrix Factorization for
+- Liu, T., **Li, Q.**, Zheng, X., and Zou, F. (2025+). Adaptive Regularized Tri-factor Non-negative Matrix Factorization for
 Cell Type Deconvolution.
-- Yang, Y., Lin, J., **Li, Q.**, and Lin, F. (2024+). Maximum Likelihood Estimation for the Silent Hypnozoite Carriage in a
+- Yang, Y., Lin, J., **Li, Q.**, and Lin, F. (2025+). Maximum Likelihood Estimation for the Silent Hypnozoite Carriage in a
 Malaria Randomized Clinical Trial. 
 
 # Statistical Theory & Methodology    
-- Heiling, H., Rashid, N., **Li, Q.**, Peng, X., Yeh, J., and Ibrahim, J. (2024+). Efficient Computation of High-dimensional
+- Heiling, H., Rashid, N., **Li, Q.**, Peng, X., Yeh, J., and Ibrahim, J. (2025+). Efficient Computation of High-dimensional
 Penalized Piecewise Constant Hazard Random Effects Survival Models. _Statistics in Medicine_, in press. 
 -   Wang, P., Wang, H., **Li, Q.**, Shen, D., and Liu, Y. (2024). Joint and Individual Component Regression. <span
 class="underline">*Journal of Computational and Graphical Statistics*</span>, 
@@ -78,7 +78,7 @@ Light-tail Assumptions. <span class="underline">*Journal of the Royal Statistica
 -   Xu, Y., Yu, M., Zhao, Y. Q., **Li, Q.**, Wang, S., and Shao, J. (2015). Regularized Outcome Weighted Subgroup
 Identification for Differential Treatment Effects. <span class="underline">*Biometrics*</span>,
 71, 645-653. [[pdf](../files/publication/Biometrics2015.pdf)] [[supp](../files/publication/Biometrics2015_supp.pdf)]
-[[code](../files/publication/ROWSI.zip)] {An earlier version received 2014 ***John Van Ryzin Award***.}
+[[code](../files/publication/ROWSI.zip)] [An earlier version received 2014 ***John Van Ryzin Award***.]
 -   **Li, Q.**, Wang, S., Huang, C., Yu, M., and Shao, J. (2014). Meta-Analysis Based
 Variable Selection for Gene Expression Data. <span class="underline">*Biometrics*</span>, 70, 872-880. [[pdf](../files/publication/Biometrics2014.pdf)] [[supp](../files/publication/Biometrics2014_supp.pdf)]
 -   Yu, M. and **Li, Q.** (2014). Discussion of "Combining Biomarkers to Optimize Patient Treatment
