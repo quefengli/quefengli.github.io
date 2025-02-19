@@ -16,10 +16,10 @@ _Below is a list of my collaborative research publications in peer-reviewed biom
 -   Rosman, L., Lampert, R., Zhuo, S., **Li, Q.**, Varma, N., Burg, M., Gaffey, A., Armbruster, T., and Gehi,
     A. (2024). Wearable Devices, Healthcare Use, and Psychological Wellbeing in Patients with Atrial Fibrillation. _Journal
     of American Heart Association_, 13:e033750. [[Link](https://www.ahajournals.org/doi/10.1161/JAHA.123.033750)]
--   Merlo, A., Bensimhon, H., Watkins, R., Yu, Z., **Li, Q.**, Chang, P., and Byku, M. (2024). Use of mechanical
-    circulatory support and survival for heart and heart-kidney transplant recipients in the new allocation system. <span
-    class="underline">*The Journal of Heart and Lung
-    Transplantation*</span>. [[Link](https://www.jhltopen.org/article/S2950-1334(24)00020-X/fulltext)]
+-   Merlo, A., Bensimhon, H., Watkins, R., Yu, Z., **Li, Q.**, Chang, P., and Byku, M. (2024). Use of mechanical circulatory
+    support and survival for heart and heart-kidney transplant recipients in the new allocation system. <span
+    class="underline">*The Journal of Heart and Lung Transplantation*</span>,
+    4, 100071. [[Link](https://www.jhltopen.org/article/S2950-1334(24)00020-X/fulltext)]
 -   Chang, E., Tugman, M., Assimon, M., Gilet, C., Ge, R, **Li, Q.**, and Flythe, J. (2024). Lung Ultrasound, Bioimpedance
     Spectroscopy, and Physical Examination for Volume Assessment in Hospitalized Hemodialysis Patients: a Diagnostic Test
     Study. <span class="underline">*Kidney Medicine*</span>,
