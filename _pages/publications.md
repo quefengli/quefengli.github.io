@@ -4,8 +4,8 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-_Disclaimer: The pdf files posted here are merely for convenience. You should not download them if you don't have
-copyright to access to these papers._
+_Disclaimer: The pdf files posted here are merely for convenience. Please do not download them if you don't have copyright
+to access to these papers._
 
 # Preprints
 - Jin, W., Wu, G., and **Li, Q.** (2025+). Inference on the Significance of Modalities in Multimodal Generalized Linear
