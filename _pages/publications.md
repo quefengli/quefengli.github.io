@@ -24,8 +24,9 @@ Penalized Piecewise Constant Hazard Random Effects Survival Models. _Statistics 
 class="underline">*Journal of Computational and Graphical Statistics*</span>, 33,
 763-773. [[pdf](../files/publication/JCGS2024.pdf)] [[supp](../files/publication/JCGS2024_supp.pdf)]
 [[code](https://cran.r-project.org/web/packages/JICO/index.html)]
--   Heiling, H., Rashid, N., **Li, Q.**, and Ibrahim, J. (2024). glmmPen: High Dimensional Penalized Generalized Linear Mixed
-Models. <span class="underline">*The R Journal*</span>, 15, 106-128. [[pdf](../files/publication/RJournal2023.pdf)]
+-   Heiling, H., Rashid, N., **Li, Q.**, and Ibrahim, J. (2024). glmmPen: High Dimensional Penalized Generalized Linear
+Mixed Models. <span class="underline">*The R Journal*</span>, 15, 106-128. [[pdf](../files/publication/RJournal2023.pdf)]
+[[code](https://cran.r-project.org/web/packages/glmmPen/index.html)]
 -   Heiling, H., Rashid, N. **Li, Q.**, Peng, X., Yeh, J., and Ibrahim, J. (2024). Efficient Computation of High-Dimensional
 Penalized Generalized Linear Mixed Models by Latent Factor Modeling of the Random Effects. <span
 class="underline">*Biometrics*</span>, 80: ujae016. [[pdf](../files/publication/Biometrics2024.pdf)]
