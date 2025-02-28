@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 _Below is a list of my collaborative research publications in peer-reviewed biomedical journals:_
--   Zhou, J., Muluneh, B., Li, Q., and Hughes, J. (2025). Revolutionizing Patient Reported Out- comes Analysis for Oncology
+-   Zhou, J., Muluneh, B., **Li, Q.**, and Hughes, J. (2025). Revolutionizing Patient Reported Outcomes Analysis for Oncology
 Drug Development Using Population Models. _Clinical Cancer Research_, in press.
 [[Link](https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-24-4073/752131/Revolutionizing-Patient-Reported-Outcomes-Analysis)].
 -   Mahmood, R., Armbruster, T., Jin, W., Choudhury, A., Rosman, L., Mazzella, J. A., **Li, Q.**, Biese, K., Stearns, S. C.,
