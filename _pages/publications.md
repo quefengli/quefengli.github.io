@@ -12,12 +12,14 @@ to access to these papers._
     Models. [An earlier version won **2025 ENAR Distinguished Student Paper Award**]
 - Jiang, J., **Li, Q.**, Lin, J., and Lin, F. (2025+). Classification of Competing Risks under a Semiparametric Density
 Ratio Model with Transition of Markers.  
-- Liu, T., **Li, Q.**, Zheng, X., and Zou, F. (2025+). Adaptive Regularized Tri-factor Non-negative Matrix Factorization for
-Cell Type Deconvolution.
 - Yang, Y., Lin, J., **Li, Q.**, and Lin, F. (2025+). Maximum Likelihood Estimation for the Silent Hypnozoite Carriage in a
 Malaria Randomized Clinical Trial. 
 
 # Statistical Theory & Methodology    
+- Liu, T., Liu, C., **Li, Q.**, Zheng, X., and Zou, F. (2025). ARTdeConv: adaptive regularized tri-factor non-negative
+matrix factorization for cell type deconvolution. _NAR Genomics and Bioinformatics_, 7:
+lqaf046. [[pdf](..files/publication/NAR2025.pdf)] [[supp](../files/publication/NAR2025_supp.pdf)]
+[[code](https://github.com/gr8lawrence/ARTDeConv)]
 - Heiling, H., Rashid, N., **Li, Q.**, Peng, X., Yeh, J., and Ibrahim, J. (2025). Efficient Computation of High-dimensional
 Penalized Piecewise Constant Hazard Random Effects Survival Models. _Statistics in Medicine_, 44:
 e10311. [[pdf](../files/publication/SIM2025.pdf)] [[supp](../files/publication/SIM2025_supp.pdf)]
