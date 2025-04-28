@@ -16,8 +16,8 @@ Ratio Model with Transition of Markers.
 Malaria Randomized Clinical Trial. 
 
 # Statistical Theory & Methodology    
-- Liu, T., Liu, C., **Li, Q.**, Zheng, X., and Zou, F. (2025). ARTdeConv: adaptive regularized tri-factor non-negative
-matrix factorization for cell type deconvolution. _NAR Genomics and Bioinformatics_, 7:
+- Liu, T., Liu, C., **Li, Q.**, Zheng, X., and Zou, F. (2025). ARTdeConv: Adaptive Regularized Tri-factor Non-negative
+Matrix Factorization for Cell Type Deconvolution. _NAR Genomics and Bioinformatics_, 7:
 lqaf046. [[pdf](..files/publication/NAR2025.pdf)] [[supp](../files/publication/NAR2025_supp.pdf)]
 [[code](https://github.com/gr8lawrence/ARTDeConv)]
 - Heiling, H., Rashid, N., **Li, Q.**, Peng, X., Yeh, J., and Ibrahim, J. (2025). Efficient Computation of High-dimensional
