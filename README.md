@@ -1,1 +1,1 @@
-My personal webpage adapted by Jekyll Academic Pages tempalte.
+My personal webpage adapted by Jekyll Academic Pages template.
