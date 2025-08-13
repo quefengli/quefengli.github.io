@@ -5,8 +5,8 @@ permalink: /software/
 author_profile: true
 ---
 
-- [glmmPen:](https://cran.r-project.org/web/packages/glmmPen/index.html) High Dimensional Penalized Generalized Linear
-Mixed Models. [[manual](https://cran.r-project.org/web/packages/glmmPen/glmmPen.pdf)]
+- glmmPen: High Dimensional Penalized Generalized Linear Mixed
+Models. [[manual](https://cran.r-project.org/web/packages/glmmPen/glmmPen.pdf)]
 [[reference](../files/publication/RJournal2023.pdf)]
 [![](https://cranlogs.r-pkg.org/badges/grand-total/glmmPen)](https://cran.r-project.org/package=glmmPen)
 - [JICO:](https://cran.r-project.org/web/packages/JICO/index.html) Joint and Individual Component
