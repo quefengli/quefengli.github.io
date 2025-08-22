@@ -7,7 +7,7 @@ author_profile: true
 
 _Below is a list of my collaborative research publications in peer-reviewed biomedical journals:_
 -  Srivatsa, S., Lau, B., Jin, W., **Li, Q.**, Mazzella, A., Lindsey, R., and Gehi, A. (2025+). Differences in Stroke
-    Risk Among Patients with Atrial Fibrillation and Heart Failure Subtypes. _Heart Rhythm_ in press.
+    Risk Among Patients with Atrial Fibrillation and Heart Failure Subtypes. _Heart Rhythm_, in press.
 - James, J., Fuller, M., Hunt, M., Powell, E., Lu, G., **Li, Q.**, Omary, A., and Hollis,
     I. (2025). Hemocompatibility-Related Adverse Events Associated With or Without Low Molecular Weight Heparin Bridging
     in Outpatients with a HeartMate 3 Left Ventricular Assist Device. _Artificial Organs_, 49,
