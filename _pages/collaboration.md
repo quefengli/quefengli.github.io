@@ -6,16 +6,19 @@ author_profile: true
 ---
 
 _Below is a list of my collaborative research publications in peer-reviewed biomedical journals:_
+-  Srivatsa, S., Lau, B., Jin, W., **Li, Q.**, Mazzella, A., Lindsey, R., and Gehi, A. (2025+). Differences in Stroke
+    Risk Among Patients with Atrial Fibrillation and Heart Failure Subtypes. _Heart Rhythm_ in press.
 - James, J., Fuller, M., Hunt, M., Powell, E., Lu, G., **Li, Q.**, Omary, A., and Hollis,
-    I. (2025). Hemocompatibility-Related Adverse Events Associated With or Without Low Molecular Weight Heparin Bridging in
-    Outpatients with a HeartMate 3 Left Ventricular Assist Device. _Artificial Organs_, in
-    press. [[Link](https://onlinelibrary.wiley.com/doi/10.1111/aor.14986)]
+    I. (2025). Hemocompatibility-Related Adverse Events Associated With or Without Low Molecular Weight Heparin Bridging
+    in Outpatients with a HeartMate 3 Left Ventricular Assist Device. _Artificial Organs_, 49,
+    1215-1218. [[Link](https://onlinelibrary.wiley.com/doi/10.1111/aor.14986)]
 -   Zhou, J., Muluneh, B., **Li, Q.**, and Hughes, J. (2025). Revolutionizing Patient Reported Outcomes Analysis for
-Oncology Drug Development Using Population Models. _Clinical Cancer Research_, in press.
+Oncology Drug Development Using Population Models. _Clinical Cancer Research_, 31, 1580-1586.
 [[Link](https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-24-4073/752131/Revolutionizing-Patient-Reported-Outcomes-Analysis)]
--   Mahmood, R., Armbruster, T., Jin, W., Choudhury, A., Rosman, L., Mazzella, J. A., **Li, Q.**, Biese, K., Stearns, S. C.,
-and Gehi, A. (2025). An Atrial Fibrillation Treatment Pathway in the Emergency Department Reduces Median 30-Day Hospital
-Charges. _Journal of American Heart Association_, in press. [[Link](https://www.ahajournals.org/doi/10.1161/JAHA.124.038756)].
+-   Mahmood, R., Armbruster, T., Jin, W., Choudhury, A., Rosman, L., Mazzella, J. A., **Li, Q.**, Biese, K., Stearns,
+S. C., and Gehi, A. (2025). An Atrial Fibrillation Treatment Pathway in the Emergency Department Reduces Median 30-Day
+Hospital Charges. _Journal of American Heart Association_,
+14:e038756. [[Link](https://www.ahajournals.org/doi/10.1161/JAHA.124.038756)].
 -   Carroll, Z., Ridgway, E., Owen, P., Bonetti, A., Ikonomidis, J., Rosenkrans, D., Caranasos, T., McLean, D., **Li, Q.**,
 Zhuo, S., and Hollis, I. (2024). Prophylaxis for Postoperative Atrial Fibrillation: Impact of the
 Implementation of a Medication Bundle Protocol. _The Journal of Thoracic and Cardiovascular Surgery_, 20:
