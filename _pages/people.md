@@ -13,20 +13,17 @@ author_profile: true
 -   Longfei Zhang (PhD student)
 -   Renee Ge (PhD student, joint with Yuchao Jiang)
 
-
-
-
 # Alumni
 -   Tianyi Liu, PhD in 2024  (joint with Fei Zou).
     -   Thesis: Algorithms For Cell-type Deconvolution under Constraints and Latent Structural Unwanted Variation
-	-   First job: Data scientist in Incyte
+	-   First job: Data scientist at Incyte
 -   Haodong Wang, PhD in 2022 (joint with Yufeng Liu).
     -   Thesis: Supervised Learning for Complex Data
-    -   First job: Data scientist in Amazon
+    -   First job: Data scientist at Amazon
 -   Hannan Yang, PhD in 2022 (joint with Danyu Lin).
     -   Thesis: Statistical Learning Methods for High-dimensional Classification and Regression
-    -   First job: Data scientist in Novartis
+    -   First job: Data scientist at Novartis
 -   Yutong Liu, PhD in 2022.
     -   Thesis: High Dimensional Data Analysis Problems in Infectious Disease Studies
-    -   First job: Data scientist in Moderna
+    -   First job: Data scientist at Moderna
 
