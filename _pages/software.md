@@ -4,17 +4,20 @@ title: "software"
 permalink: /software/
 author_profile: true
 ---
-
-- [glmmPen:](https://cran.r-project.org/web/packages/glmmPen/index.html) High Dimensional Penalized Generalized Linear
+- [multiModTest:](https://cran.r-project.org/web/packages/multiModTest/index.html) Quantification of information gain
+  contributed by individual modalities in multimodal regression
+  models. [[manual](https://cran.r-project.org/web/packages/multiModTest/multiModTest.pdf)]
+  [![](https://cranlogs.r-pkg.org/badges/grand-total/multiModTest)](https://cran.r-project.org/package=multiModTest)
+- [glmmPen:](https://cran.r-project.org/web/packages/glmmPen/index.html) High-dimensional penalized Generalized Linear
 Mixed Models. [[manual](https://cran.r-project.org/web/packages/glmmPen/glmmPen.pdf)]
 [[reference](../files/publication/RJournal2023.pdf)]
 [![](https://cranlogs.r-pkg.org/badges/grand-total/glmmPen)](https://cran.r-project.org/package=glmmPen)
-- [JICO:](https://cran.r-project.org/web/packages/JICO/index.html) Joint and Individual Component
-Regression. [[manual](https://cran.r-project.org/web/packages/JICO/JICO.pdf)]
+- [JICO:](https://cran.r-project.org/web/packages/JICO/index.html) Joint and individual component
+regression. [[manual](https://cran.r-project.org/web/packages/JICO/JICO.pdf)]
 [[reference](https://arxiv.org/pdf/2209.12388.pdf)]
 [![](https://cranlogs.r-pkg.org/badges/grand-total/JICO)](https://cran.r-project.org/package=JICO) 
-- [ARTDeConv:](https://github.com/gr8lawrence/ARTDeConv) Adaptive Regularized Tri-factor Non-negative Matrix Factorization
-for Deconvolution. 
+- [ARTDeConv:](https://github.com/gr8lawrence/ARTDeConv) Adaptive regularized tri-factor non-negative matrix factorization
+for deconvolution. 
 - [iLDA:](../files/software/iLDA_0.1.0.tar.gz) An integrative linear discriminant analysis classifier using multimodal
 data for binary classification, which allows multimodal data to have blocks of missing
 values. [[manual](../files/software/iLDA.pdf)] [[reference](../files/publication/Biometrika2018_2.pdf)]
