@@ -8,12 +8,11 @@ _Disclaimer: The pdf files posted here are merely for convenience. Please do not
 to access to these papers._
 
 # Preprints
+- Zhang, Z. and **Li, Q.** (2025+). Liner Hypothesis Test for High-dimensional Interactive Fixed Effects Models. 
+- Yu, Z., Ding, J., Wu, G., and **Li, Q.** (2025+). Matrix-Response Generalized Linear Mixed Models with Applications to
+  Longitudinal Brain Images.
 - Jin, W., Wu, G., and **Li, Q.** (2025+). Inference on the Significance of Modalities in Multimodal Generalized Linear
     Models. [An earlier version won **2025 ENAR Distinguished Student Paper Award**]
-- Jiang, J., **Li, Q.**, Lin, J., and Lin, F. (2025+). Classification of Competing Risks under a Semiparametric Density
-Ratio Model with Transition of Markers.  
-- Yang, Y., Lin, J., **Li, Q.**, and Lin, F. (2025+). Maximum Likelihood Estimation for the Silent Hypnozoite Carriage in a
-Malaria Randomized Clinical Trial. 
 
 # Statistical Theory & Methodology    
 - Liu, T., Liu, C., **Li, Q.**, Zheng, X., and Zou, F. (2025). ARTdeConv: Adaptive Regularized Tri-factor Non-negative
