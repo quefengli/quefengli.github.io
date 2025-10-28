@@ -8,7 +8,7 @@ _Disclaimer: The pdf files posted here are merely for convenience. Please do not
 to access to these papers._
 
 # Preprints
-- Zhang, Z. and **Li, Q.** (2025+). Liner Hypothesis Test for High-dimensional Interactive Fixed Effects Models. 
+- Zhang, Z. and **Li, Q.** (2025+). Linear Hypothesis Test for High-dimensional Interactive Fixed Effects Models. 
 - Yu, Z., Ding, J., Wu, G., and **Li, Q.** (2025+). Matrix-Response Generalized Linear Mixed Models with Applications to
   Longitudinal Brain Images.
 - Jin, W., Wu, G., and **Li, Q.** (2025+). Inference on the Significance of Modalities in Multimodal Generalized Linear
