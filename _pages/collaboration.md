@@ -6,8 +6,15 @@ author_profile: true
 ---
 
 _Below is a list of my collaborative research publications in peer-reviewed biomedical journals:_
+- Mazzella, A., Daubert, T., Jin, W., **Li, Q.**, Rosman, L., and Gehi, A. (2025+). Assessing Potential Benefit of
+    Stroke Prophylaxis Therapy in Atrial Fibrillation and Atrial Flutter Using a Novel Competing Risk Scoring
+    Tool. _Journal of the American Heart Association_, in press.
+- Zhou, J., Muluneh, B., **Li, Q.**, Wang, Y., and Hughes, J. H. (2025+). From Symptom to Outcome: Defining Clinically
+    Meaningful Patient-Reported Appetite Loss in Non-Small-Cell Lung Cancer. _Journal of Cachexia, Sarcopenia and
+    Muscle_, in press.
 -  Srivatsa, S., Lau, B., Jin, W., **Li, Q.**, Mazzella, A., Lindsey, R., and Gehi, A. (2025+). Differences in Stroke
-    Risk Among Patients with Atrial Fibrillation and Heart Failure Subtypes. _Heart Rhythm_, in press.
+    Risk Among Patients with Atrial Fibrillation and Heart Failure Subtypes. _Heart Rhythm_, in
+    press. [[Link](https://www.heartrhythmjournal.com/article/S1547-5271(25)02780-8/abstract)]
 - James, J., Fuller, M., Hunt, M., Powell, E., Lu, G., **Li, Q.**, Omary, A., and Hollis,
     I. (2025). Hemocompatibility-Related Adverse Events Associated With or Without Low Molecular Weight Heparin Bridging
     in Outpatients with a HeartMate 3 Left Ventricular Assist Device. _Artificial Organs_, 49,
