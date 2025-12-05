@@ -11,7 +11,7 @@ _Below is a list of my collaborative research publications in peer-reviewed biom
     Tool. _Journal of the American Heart Association_, in press.
 - Zhou, J., Muluneh, B., **Li, Q.**, Wang, Y., and Hughes, J. H. (2025+). From Symptom to Outcome: Defining Clinically
     Meaningful Patient-Reported Appetite Loss in Non-Small-Cell Lung Cancer. _Journal of Cachexia, Sarcopenia and
-    Muscle_, in press.
+    Muscle_, in press. [[Link](https://onlinelibrary.wiley.com/doi/10.1002/jcsm.70150)]
 -  Srivatsa, S., Lau, B., Jin, W., **Li, Q.**, Mazzella, A., Lindsey, R., and Gehi, A. (2025+). Differences in Stroke
     Risk Among Patients with Atrial Fibrillation and Heart Failure Subtypes. _Heart Rhythm_, in
     press. [[Link](https://www.heartrhythmjournal.com/article/S1547-5271(25)02780-8/abstract)]
